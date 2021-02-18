@@ -9,8 +9,6 @@ import com.android.volley.Response
 import com.android.volley.toolbox.StringRequest
 import com.android.volley.toolbox.Volley
 import org.json.JSONObject
-import retrofit2.Call
-import javax.security.auth.callback.Callback
 
 class MainActivityViewModel(val context: Context) : ViewModel() {
 
